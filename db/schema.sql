@@ -1,4 +1,4 @@
-CREATE DATABASE IF NOT EXISTS monitoramento;
+CREATE DATABASE IF NOT EXISTS monitoring;
 
 
 USE monitoring;
